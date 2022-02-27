@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ho auto-katakritos. The self-condemned. Or, a letter to Mr Jo: Goodwin: shewing, that in his essay to justifie the equity, and regularnes of the late, and present proceedings of the Army by principles of reason, and religion, he hath condemned himselfe of iniquity, and variablenesse in the highest degree, untill he shall explaine himself in publike. / By Sir Francis Nethersole Knight.</title>
+            <author>Nethersole, Francis, Sir, 1587-1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89913</idno>
+            <idno type="STC">Wing N495</idno>
+            <idno type="STC">Thomason E538_2</idno>
+            <idno type="STC">ESTC R202227</idno>
+            <idno type="EEBO-CITATION">99862594</idno>
+            <idno type="PROQUEST">99862594</idno>
+            <idno type="VID">164868</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89913)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164868)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E538[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ho auto-katakritos. The self-condemned. Or, a letter to Mr Jo: Goodwin: shewing, that in his essay to justifie the equity, and regularnes of the late, and present proceedings of the Army by principles of reason, and religion, he hath condemned himselfe of iniquity, and variablenesse in the highest degree, untill he shall explaine himself in publike. / By Sir Francis Nethersole Knight.</title>
+                  <author>Nethersole, Francis, Sir, 1587-1659.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare 1648 [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Goodwin, John.  The Army harmelesse.</note>
+                  <note>First word of title in Greek characters.</note>
+                  <note>Annotation on Thomason copy: "Jan: 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Goodwin, John, 1594?-1665. --  Army, harmelesse.</term>
+               <term>Goodwin, John, 1594?-1665. --  Right and might well met.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164868:1" rendition="simple:additions"/>
+            <p>Ὁ ἈΥΤΟ-ΚΆΤΑΚΡΙΤΟΣ. THE <hi>SELF-CONDEMNED.</hi> OR, A LETTER TO M<hi rend="sup">r</hi> Jo: Goodwin:</p>
+            <p>
+               <hi>Shewing,</hi> That in his Eſſay to juſtifie the equity, and regularnes of the late, and preſent proceedings of the Army by Principles of Rea<g ref="char:EOLhyphen"/>ſon, and Religion, he hath condemned himſelfe of iniquity, and variableneſſe in the higheſt degree, untill he ſhall explaine himſelf in publike.</p>
+            <p>By Sir <hi>Francis Netherſole</hi> Knight.</p>
+            <p>
+               <add>Jan: 11th</add> 
+               <hi>London,</hi> Printed in the yeare 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:164868:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:164868:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Was willing to have done you a good Office, and to have diſcharged one part of that duty, which I owe to the King my moſt gracious Soveraigne, and to my Countrey in a private way, as I have done many times of late years upon other conſiderations, and for this among the reſt, that I had, and yet have reaſon to apprehend, the aſcribing of my name would rather have ſubſtracted from, then added any thing to the weight of thoſe diſcourſes, which I have either privately inſinuated to divers perſons in Authority, or publiſhed to the world. But it is now more then high time for every good Chriſtian, and loyall ſubject of this Kingdome, to take off his maſke, and to acquit himſelfe of that allegeance, under which every of us was borne, and which many have, all of age ſhould have ſworn, with a reſolved heart, and open face; And for me to avow, who it was that ſent you a written letter the other day, wherein he let you know, that being one of thoſe many you take notice of, who is not afraid to profes his being in ſome reſpects much unſatisfied with ſome of the Armies late, and preſent proceed<g ref="char:EOLhyphen"/>ings,
+<pb n="4" facs="tcp:164868:3"/>and that <hi>as well in regard of the want of Conſci<g ref="char:EOLhyphen"/>ence and Juſtice, as of Moderation, and prudence in them;</hi> he came to the reading of your <hi>Right,</hi> and <hi>Might</hi> well met, with great expectation. But ſoone found he ſhould fall as ſhort of his hopes, as you have, and will of your aime, expreſſed in the reſt of your title Page; if you think you can compaſſe your deſigne by a figure, as you pretend to do in your ſe<g ref="char:EOLhyphen"/>cond <hi>Section.</hi> In which reſpect he prayed you to tell him in a few lines of plaine Engliſh by the return of the Meſſenger he ſent to you, whether your in<g ref="char:EOLhyphen"/>tention were, and be to maintaine the equity, and regularneſſe of all the ſaid proceedings of the Army, as they have been deſigned in their late Remon<g ref="char:EOLhyphen"/>ſtrance, in purſuance whereof they do ſtill act at pre<g ref="char:EOLhyphen"/>ſent, for ought he then knew, or yet knowes; or in caſe that be more then you meant, he then took the liberty, and boldneſſe to require you to do your ſelfe the right, to let him as one of your Readers, un<g ref="char:EOLhyphen"/>derſtand at what part, or parts of the Remonſtrance you leave them, whereupon he promiſed you ſhould heare further from him. Whoſe purpoſe, was if you ſhould have under-taken the full defence of the whole deſigne of the Army already Declared by them, in that caſe to have remembred you, that un<g ref="char:EOLhyphen"/>leſſe your imitating them in their variations with the ſword, may be thought to render you a fit Champion for them with the pen, you are the moſt unfit man in the whole Kingdome to charge your ſelfe with that taſke, becauſe you cannot ſo much as make an eſſay to Juſtifie the main peece of
+<pb n="5" facs="tcp:164868:3"/>their deſigne, without condemning your ſelf. Which friendly purpoſe of his to have given you a faire warning in ſecret of the neceſſity lay upon you to ſave your reputation, by a timely explaining of your meaning, in your ſaid title, ſince God did not give you the grace to entertain with ſuitable friendlineſſe, but ſuffered you to reject it, with this ſlighting, if not ſcornfull returne, <hi>that you would make no anſwer to the letter of an unknowne perſon,</hi> you have hereby obliged me to endeavour to engage you to vouch<g ref="char:EOLhyphen"/>ſafe me a better Anſwer to this printed Letter. Whereby I muſt pray you to take a review of a paſſage in the ſeventh page of your <hi>Anticavalie<g ref="char:EOLhyphen"/>riſme,</hi> which ſtareth the compoſer of your late Pamphlet in the face with a wide open mouth in theſe words. <hi>As for offering violence to the perſon of a King, or attempting to take away his life, we leave the proofe of the lawfulneſſe of this to thoſe profound diſputers the Ieſuites, who ſtand engaged by the tenor of their prefeſſed doctrine and Practice, either to make good the lawfulneſſe thereof, or elſe to leave themſelves and their Religion an abhorring and hiſſing unto the world: As for us who never travelled with any deſire or thoughts that way, but abhorre both mother and daughter, Doctrine and Practice together; we conceive it to be a juſt Prerogative of the Perſons of Kings,</hi> IN WHAT CASE SOEVER, <hi>to be ſecure from the violence of men, and their lives to be as conſecrated corne meet to be reaped and gathered only by the hand of God him<g ref="char:EOLhyphen"/>ſelfe.</hi> Davids <hi>conſcience ſmote him, when he came but ſo neare the life of a King, as the cutting off the lap of his
+<pb n="6" facs="tcp:164868:4"/>garment.</hi> Of which mind &amp; judgment that you have beene ever ſince, and are ſtill, if you ſhall <hi>inſtantly with creddible circumſtances</hi> declare your ſelf ſo in Print, I ſhall think my ſelfe bound in charity to be<g ref="char:EOLhyphen"/>leeve it, notwithſtanding the great appearance of the contrary in the <hi>face, and body</hi> of your laſt publiſhed Pamphlet. But if you ſhall either faile to do this in <hi>a due manner,</hi> which I need not teach you, who know it much better then I, or ſhall but be <hi>ſlack</hi> in the performance thereof; I do here in that caſe pro<g ref="char:EOLhyphen"/>nounce you a ſelf-condemned Heretique, unleſſe you ſhall <hi>preſently</hi> give me and the world ſuch reaſons for the change of your judgement in this point, as may ſatisfie me, and other rationall men, that the ſaid Reaſons are of ſufficient importance to make ſuch an alteration in you, and that there is a proba<g ref="char:EOLhyphen"/>bility at leaſt, that they were not knowne to you, or conſidered by you when you publiſhed your <hi>Anti<g ref="char:EOLhyphen"/>cavalieriſme.</hi> Which it will be very hard for me to beleeve, if you ſhall produce no other then are common in the books of Jeſuites, and are as com<g ref="char:EOLhyphen"/>monly confuted in the books of all Proteſtant Wri<g ref="char:EOLhyphen"/>ters of Controverſies, whereunto you were not much more a ſtranger ſeven yeeres ago, then at this day, to which, for ought I know, you are the <hi>firſt and only Miniſter of any Reformed Church,</hi> that ever was of this, by your ſelfe ſtiled Jeſuiticall, opi<g ref="char:EOLhyphen"/>nion. In which reſpect I ſhall hope that in the a<g ref="char:EOLhyphen"/>bove-mentioned caſe, not onely all thoſe of <hi>your owne Congregation,</hi> but all other of the <hi>Independent way</hi> in Old and New <hi>England,</hi> and in all other
+<pb n="7" facs="tcp:164868:4"/>Countries (if there be any any where elſe) will <hi>appeare againſt you</hi> in ſuch a manner, as they are obliged by their owne principles. And that all thoſe <hi>of that way in the Army,</hi> aſwell Souldiers, as Officers of all degrees, who may reaſonably be judged to have beene <hi>ſeduced by you,</hi> will lay hold on the opportunity of this diſcovery of you, to diſcharge you for their whether Pope, or Paſtor. And I ſhall yet further hope, that all the <hi>Members of the Houourable Houſe</hi> of Commons now <hi>ſitting at Weſtminſter</hi> (in what capacity I am not wiſe enough to be able, if I were willing, to determine) will take the ſame riſe, inſtead of going on in their proceedings againſt their and our Soveraigne Lord the King, to <hi>proceed againſt you,</hi> as the great New Light, by the obſervation of whoſe irregular mo<g ref="char:EOLhyphen"/>tion, they alſo may perhaps have been led ſo wide out of the rode of their Loyalty. From which wilde wandring after you in untrodden paths, that will certainly end in their own deſtruction, I heart<g ref="char:EOLhyphen"/>ily wiſh that they would returne into the <hi>good old way of the Church of England,</hi> laid downe at large in the <hi>Homilies of Rebellion,</hi> before they be deſerted by the Counties for which they ſerve, &amp; by all loyal people of the Land. Whom with your ſelf I do here<g ref="char:EOLhyphen"/>by exhort in the moſt ſerious manner to follow <hi>my example,</hi> in making (ſo far as it is lawfull for private men) as I here do, <hi>a moſt ſolemne Declaration,</hi> that I do from my ſoule <hi>abhorre and diſclaime</hi> having a<g ref="char:EOLhyphen"/>ny <hi>part,</hi> or giving <hi>any abetment</hi> to the proceed<g ref="char:EOLhyphen"/>ings of any, that have or may go about <hi>to Depoſe,
+<pb n="8" facs="tcp:164868:5"/>or take away the life</hi> of the King, which I do for the <hi>delivering</hi> of my owne ſoule from partaking in the guilt of ſo crying a ſinne. And ſo in great longing for your Anſwer hereunto, I reſt till then, and ſhall he glad if I may ever re<g ref="char:EOLhyphen"/>maine</p>
+            <closer>
+               <signed>Your ever loving friend, <hi>Fra. Netherſole.</hi>
+               </signed>
+               <dateline>
+                  <date>Janu. 8. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I do here avow my having written the <hi>Problemes,</hi> the ſtrong motive to the paſſing of a general Pardon, and Act of Oblivion; the other parcel of <hi>Problems,</hi> and the Parables re<g ref="char:EOLhyphen"/>flecting upon the times, all printed after the reſolution for a Per<g ref="char:EOLhyphen"/>ſonall treaty with the King; and I ſuppoſe ſufficient to ſhow what juſtice there will be in taking away his Majeſties life upon the charge of his having made war againſt his Parliament. In which reſpect I recommend them to your peruſall, conceiving that if you ſhall read them with attention, and a minde diſpoſed to yeeld to reaſon, and without prejudging whatſoever you may meet with that you had not thought on before, you may perad<g ref="char:EOLhyphen"/>venture find more cauſe to retract the maine ſcope of your whole <hi>Anticavalieriſm,</hi> then the above mentioned paſſage therof. And I ſhall not deſpaire that you may let me know you are of the ſame minde therein; though for a man to confeſſe himſelf convinced of an error he hath made publike, eſpecially if his judgement have not been ſwayed by weight of reaſon, but over-ballanced by pri<g ref="char:EOLhyphen"/>vate intereſt, be one of the hardeſt points of ſelf-denyal. <hi>I</hi>ſhall not need now to tell you that <hi>I</hi> am alſo the Author of the <hi>Project for an equitable and laſting Peace,</hi> which you may pleaſe alſo to take the paines to read, and then to judge whether the middle way therein traced between the two extreames, the Army have been engaged in, be not more juſt &amp; prudent then either of them. <hi>I</hi>ſhall tell you how <hi>P. D.</hi> can ſtand for the firſt letters of my name in due time. <hi>I</hi> reſt as before.</p>
+            <closer>
+               <dateline>
+                  <date>January 8, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
